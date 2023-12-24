@@ -12,3 +12,4 @@ INSERT INTO bookmarks (title, url, created_at) VALUES
 ('Deserialize Immutable Objects with Jackson', 'https://www.baeldung.com/jackson-deserialize-immutable-objects', CURRENT_TIMESTAMP),
 ('SpringBoot Integration Testing using TestContainers Starter', 'https://sivalabs.in/2020/02/spring-boot-integration-testing-using-testcontainers-starter', CURRENT_TIMESTAMP)
 ;
+
