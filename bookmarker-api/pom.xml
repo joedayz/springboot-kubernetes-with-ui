@@ -16,7 +16,7 @@
 	<properties>
 		<java.version>17</java.version>
 		<testcontainers.version>1.19.8</testcontainers.version>
-		<jib-maven-plugin.version>3.4.3</jib-maven-plugin.version>
+		<jib-maven-plugin.version>3.4.4</jib-maven-plugin.version>
 		<problem-spring-web.version>0.29.1</problem-spring-web.version>
 		<dockerUserName>joedayz</dockerUserName>
 		<dockerImageName>${dockerUserName}/${project.artifactId}</dockerImageName>
